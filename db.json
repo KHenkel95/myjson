@@ -1,1 +1,19 @@
-
+{
+  "java": [
+    
+    {
+      "id":1,
+      "question":"An array is a data _______",
+      "answer":"structure",
+    },
+    
+    {
+      "id":2,
+      "qustion":"True/False Java is Object Oriented",
+      "answer":true,
+    },
+    
+    {
+      "id":3,
+      "question":"How does one make a comment in java?"
+      "answer_choices"
