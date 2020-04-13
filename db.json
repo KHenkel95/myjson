@@ -3,14 +3,14 @@
 
 		"questions": [{
 				"id": 1,
-				"question-type": "mc",
+				"question_type": "mc",
 				"question": "A Test Question",
 				"answer choices": "A,B,C",
 				"answer": "A"
 			},
 			{
 				"id": 2,
-				"question-type": "tf",
+				"question_type": "tf",
 				"question": "A Test Question 2",
 				"answer": "coolkid"
 			}
@@ -21,13 +21,13 @@
 
 		"questions": [{
 				"id": 1,
-				"question-type": "mc",
+				"question_type": "mc",
 				"question": "golang question",
 				"answer": "notcoolkid"
 			},
 			{
 				"id": 2,
-				"question-type": "tf",
+				"question_type": "tf",
 				"question": "another golang question",
 				"answer": "another notcoolkid"
 
