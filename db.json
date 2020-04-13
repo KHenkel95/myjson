@@ -1,16 +1,37 @@
 {
-    "questions": [{
-            "id": 1,
-            "question-type": "Multiple Choice",
-            "question": "A Test Question",
-            "answer choices": "A,B,C",
-            "answer": "A"
-        },
-        {
-            "id": 1,
-            "question": "A Test Question 2",
-            "question-type": "Fill In The Blank",
-            "answer": "coolkid"
-        }
-    ]
+	"java": {
+
+		"questions": [{
+				"id": 1,
+				"question-type": "Multiple Choice",
+				"question": "A Test Question",
+				"answer choices": "A,B,C",
+				"answer": "A"
+			},
+			{
+				"id": 2,
+				"question": "A Test Question 2",
+				"question-type": "Fill In The Blank",
+				"answer": "coolkid"
+			}
+		]
+	},
+
+	"golang": {
+
+		"questions": [{
+				"id": 1,
+				"question-type": "multiple choice",
+				"question": "golang question",
+				"answer": "notcoolkid"
+			},
+			{
+				"id": 2,
+				"question-type": "true/false",
+				"question": "another golang question",
+				"answer": "another notcoolkid"
+
+			}
+		]
+	}
 }
