@@ -3,7 +3,7 @@
 
 		"questions": [{
 				"id": 1,
-				"question_type": "mc",
+				"question_type": "fib",
 				"question": "A Test Question",
 				"answer choices": "A,B,C",
 				"answer": "A"
