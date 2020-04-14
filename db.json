@@ -6,7 +6,7 @@
 				"question_type": "mc",
 				"question": "A Test Question",
 				"answer choices": "A,B,C",
-				"answer": "A"
+				"answer": "A",
 				"hint": "This is a hint"
 			},
 			{
