@@ -3,14 +3,15 @@
 
 		"questions": [{
 				"id": 1,
-				"question_type": "fib",
+				"question_type": "mc",
 				"question": "A Test Question",
 				"answer choices": "A,B,C",
 				"answer": "A"
+				"hint": "This is a hint"
 			},
 			{
 				"id": 2,
-				"question_type": "tf",
+				"question_type": "fib",
 				"question": "A Test Question 2",
 				"answer": "coolkid"
 			}
@@ -27,7 +28,7 @@
 			},
 			{
 				"id": 2,
-				"question_type": "tf",
+				"question_type": "fib",
 				"question": "another golang question",
 				"answer": "another notcoolkid"
 
